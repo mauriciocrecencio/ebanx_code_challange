@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This API is available on `http://54.165.44.133:3000`
 
-Things you may want to cover:
+## Versions
 
-* Ruby version
+Rails 7.0.8.4
 
-* System dependencies
+Ruby 3.2.2
 
-* Configuration
+## Setup Local
 
-* Database creation
+1. bundle install
+2. rails server
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![alt text](<CleanShot 2024-08-06 at 21.08.20@2x.png>)
