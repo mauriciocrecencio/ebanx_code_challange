@@ -13,4 +13,4 @@ Ruby 3.2.2
 1. bundle install
 2. rails server
 
-![alt text](<CleanShot 2024-08-06 at 21.08.20@2x.png>)
+![alt text](<CleanShot 2024-08-06 at 21.18.34@2x.png>)
